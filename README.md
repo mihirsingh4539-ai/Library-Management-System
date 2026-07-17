@@ -1,2 +1,2 @@
 # Library-Management-System
-My Internship Project
+Java Library Management System using JDBC and MYSQL
