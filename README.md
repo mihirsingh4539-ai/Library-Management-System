@@ -30,4 +30,4 @@ src/
 
 ## Author
 
-Mihir Singh
+Mihir
