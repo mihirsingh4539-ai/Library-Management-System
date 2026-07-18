@@ -20,4 +20,3 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 =======
 # Library-Management-System
 Java Library Management System using JDBC and MYSQL
->>>>>>> 63890db497469bcbff98a9126017d61194ae5f03
